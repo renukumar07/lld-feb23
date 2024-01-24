@@ -11,4 +11,6 @@ public class Client {
         a = new C();
         a.doSomething();
     }
+
+
 }
